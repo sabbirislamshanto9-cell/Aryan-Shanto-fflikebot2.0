@@ -268,7 +268,7 @@ This API Uses:
 ## 📢 Telegram
 
 <p align="left">
-  <a href="https://t.me/XP_OWNER99">
+  <a href="https://t.me/Aryan_owner99">
     <img src="https://img.shields.io/badge/Telegram-XP_OWNER99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
@@ -276,7 +276,7 @@ This API Uses:
 ## 🌐 Website
 
 <p align="left">
-  <a href="https://xpopu.top">
+  <a href="https://notfound">
     <img src="https://img.shields.io/badge/Website-xpopu.top-black?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
@@ -285,7 +285,7 @@ This API Uses:
 
 # 🌐 Official Website
 
-https://xpopu.top
+https://notfound
 
 ---
 
